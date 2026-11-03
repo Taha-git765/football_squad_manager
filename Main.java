@@ -1,20 +1,32 @@
 import java.util.Scanner;
 import  java.util.ArrayList;
+import  java.util.List;
 
 
 public class Main {
+
+
+    private static void showAllPlayers(ArrayList<String> players){
+        for(String player : players){
+            System.out.println(player);
+        }
+    }
+
     public static void main(String[] args){
 
         Scanner scanner = new Scanner(System.in);
         String player_name;
-        ArrayList<String> players = new ArrayList<>();
+        ArrayList<String> players = new ArrayList<>(List.of("Ronaldo", "Salah"));
         ArrayList<String> myPlayers = new ArrayList<>();
         ArrayList<String> managers = new ArrayList<>();
         String myManager;
         String choice;
         Boolean isRunning = true;
-
-
+        
+        
+            
+        
+        
         try {
             while (isRunning) {
                 
