@@ -1,0 +1,197 @@
+name,firstName,poste,nationality,general,age,squad
+John,Doe,ATTAQUANT,USA,85,25,Team A
+Kylian,Mbappé,ATTAQUANT,France,91,26,Real Madrid
+Erling,Haaland,ATTAQUANT,Norway,90,25,Manchester City
+Lamine,Yamal,ATTAQUANT,Spain,89,18,Barcelona
+Harry,Kane,ATTAQUANT,England,88,32,Bayern Munich
+Pedri,MILIEU,Spain,87,23,Barcelona
+Jude,Bellingham,MILIEU,England,87,22,Real Madrid
+Vinícius,Júnior,ATTAQUANT,Brazil,86,25,Real Madrid
+Lionel,Messi,ATTAQUANT,Argentina,86,38,Inter Miami
+Kevin,De Bruyne,MILIEU,Belgium,85,34,Napoli
+Gianluigi,Donnarumma,GARDIEN,Italy,85,26,Manchester City
+Virgil,van Dijk,DEFENSEUR,Netherlands,85,34,Liverpool
+Rodri,MILIEU,Spain,85,29,Barcelona
+Vitinha,MILIEU,Portugal,84,25,Paris Saint-Germain
+Raphinha,ATTAQUANT,Brazil,84,28,Barcelona
+Luis,Díaz,ATTAQUANT,Colombia,84,28,Bayern Munich
+Bukayo,Saka,ATTAQUANT,England,84,24,Arsenal
+Robert,Lewandowski,ATTAQUANT,Poland,83,37,Barcelona
+Declan,Rice,MILIEU,England,83,26,Arsenal
+Mohamed,Salah,ATTAQUANT,Egypt,83,33,Liverpool
+Ousmane,Dembélé,ATTAQUANT,France,83,28,Paris Saint-Germain
+Moisés,Caicedo,MILIEU,Ecuador,82,24,Chelsea
+Achraf,Hakimi,DEFENSEUR,Morocco,82,27,Paris Saint-Germain
+Gabriel,Magalhães,DEFENSEUR,Brazil,82,27,Arsenal
+Michael,Olise,MILIEU,France,82,23,Bayern Munich
+Cristiano,Ronaldo,ATTAQUANT,Portugal,82,40,Al Nassr
+Thibaut,Courtois,GARDIEN,Belgium,82,33,Real Madrid
+Federico,Valverde,MILIEU,Uruguay,82,27,Real Madrid
+Joshua,Kimmich,DEFENSEUR,Germany,81,30,Bayern Munich
+Bruno,Fernandes,MILIEU,Portugal,81,31,Manchester United
+Arda,Güler,MILIEU,Turkey,81,20,Real Madrid
+Alessandro,Bastoni,DEFENSEUR,Italy,81,26,Inter Milan
+Julián,Álvarez,ATTAQUANT,Argentina,81,25,Atlético Madrid
+Luka,Modrić,MILIEU,Croatia,81,40,Real Madrid
+Jamal,Musiala,MILIEU,Germany,81,22,Bayern Munich
+Nuno,Mendes,DEFENSEUR,Portugal,81,23,Paris Saint-Germain
+Frenkie,de Jong,MILIEU,Netherlands,80,28,Barcelona
+Son,Heung-min,ATTAQUANT,South Korea,80,33,Tottenham Hotspur
+Sadio,Mané,ATTAQUANT,Senegal,80,33,Al Nassr
+Christian,Pulisic,ATTAQUANT,USA,80,27,AC Milan
+Granit,Xhaka,MILIEU,Switzerland,80,33,Bayer Leverkusen
+William,Saliba,DEFENSEUR,France,80,24,Arsenal
+Alisson,Becker,GARDIEN,Brazil,80,33,Liverpool
+Alphonso,Davies,DEFENSEUR,Canada,80,25,Bayern Munich
+João,Neves,MILIEU,Portugal,80,21,Paris Saint-Germain
+Bruno,Guimarães,MILIEU,Brazil,80,28,Newcastle United
+Florian,Wirtz,MILIEU,Germany,80,22,Bayer Leverkusen
+Lautaro,Martínez,ATTAQUANT,Argentina,80,28,Inter Milan
+Alexis,Mac Allister,MILIEU,Argentina,79,26,Liverpool
+Rúben,Dias,DEFENSEUR,Portugal,79,28,Manchester City
+Antonio,Rüdiger,DEFENSEUR,Germany,79,32,Real Madrid
+Mehdi,Taremi,ATTAQUANT,Iran,79,33,Inter Milan
+Cody,Gakpo,ATTAQUANT,Netherlands,79,26,Liverpool
+Martin,Ødegaard,MILIEU,Norway,79,26,Arsenal
+Enzo,Fernández,MILIEU,Argentina,79,24,Chelsea
+Jérémy,Doku,ATTAQUANT,Belgium,79,23,Manchester City
+Joško,Gvardiol,DEFENSEUR,Croatia,79,23,Manchester City
+Ryan,Gravenberch,MILIEU,Netherlands,79,23,Liverpool
+Willian,Pacho,DEFENSEUR,Ecuador,78,24,Paris Saint-Germain
+Marquinhos,DEFENSEUR,Brazil,78,31,Paris Saint-Germain
+Trent,Alexander-Arnold,DEFENSEUR,England,78,27,Real Madrid
+Jules,Koundé,DEFENSEUR,France,78,27,Barcelona
+Mike,Maignan,GARDIEN,France,78,30,AC Milan
+Nicolò,Barella,MILIEU,Italy,78,28,Inter Milan
+Riyad,Mahrez,ATTAQUANT,Algeria,78,34,Al Ahli
+Emiliano,Martínez,GARDIEN,Argentina,78,33,Aston Villa
+Désiré,Doué,MILIEU,France,78,20,Paris Saint-Germain
+Bradley,Barcola,ATTAQUANT,France,78,23,Paris Saint-Germain
+Scott,McTominay,MILIEU,Scotland,78,28,Napoli
+Cole,Palmer,MILIEU,England,78,23,Chelsea
+Phil,Foden,MILIEU,England,78,25,Manchester City
+Mohammed,Kudus,ATTAQUANT,Ghana,77,25,West Ham United
+Nico,Williams,ATTAQUANT,Spain,77,23,Athletic Club
+Aurélien,Tchouaméni,MILIEU,France,77,25,Real Madrid
+Kai,Havertz,ATTAQUANT,Germany,77,26,Arsenal
+Marcus,Thuram,ATTAQUANT,France,77,28,Inter Milan
+Gavi,MILIEU,Spain,77,21,Barcelona
+Dani,Olmo,MILIEU,Spain,77,27,Barcelona
+Omar,Marmoush,ATTAQUANT,Egypt,77,26,Manchester City
+Sandro,Tonali,MILIEU,Italy,77,25,Newcastle United
+Tijjani,Reijnders,MILIEU,Netherlands,77,27,AC Milan
+Antoine,Semenyo,ATTAQUANT,Ghana,77,25,Bournemouth
+Yan,Diomande,ATTAQUANT,Ivory Coast,77,21,RB Leipzig
+Brahim,Díaz,MILIEU,Morocco,76,26,Real Madrid
+Xavi,Simons,MILIEU,Netherlands,76,22,RB Leipzig
+Rafael,Leão,ATTAQUANT,Portugal,76,26,AC Milan
+Abdukodir,Khusanov,DEFENSEUR,Uzbekistan,76,21,Manchester City
+Martín,Zubimendi,MILIEU,Spain,76,26,Real Sociedad
+Eduardo,Camavinga,MILIEU,France,76,23,Real Madrid
+Pau,Cubarsí,DEFENSEUR,Spain,76,18,Barcelona
+Marc-André,ter Stegen,GARDIEN,Germany,76,33,Barcelona
+Nicolas,Jackson,ATTAQUANT,Senegal,76,24,Chelsea
+Estêvão,Willian,ATTAQUANT,Brazil,76,18,Chelsea
+Rodrygo,Goes,ATTAQUANT,Brazil,76,24,Real Madrid
+Hugo,Ekitike,ATTAQUANT,France,75,23,Eintracht Frankfurt
+Aleksandar,Pavlović,MILIEU,Germany,75,21,Bayern Munich
+Dean,Huijsen,DEFENSEUR,Spain,75,20,Real Madrid
+Gilberto,Mora,MILIEU,Mexico,75,17,Club América
+Kaoru,Mitoma,ATTAQUANT,Japan,75,28,Brighton & Hove Albion
+Matheus,Cunha,ATTAQUANT,Brazil,75,26,Wolverhampton Wanderers
+Takefusa,Kubo,ATTAQUANT,Japan,75,24,Real Sociedad
+Khvicha,Kvaratskhelia,ATTAQUANT,Georgia,84,25,Paris Saint-Germain
+Fabián,Ruiz,MILIEU,Spain,83,30,Paris Saint-Germain
+Joan,García,GARDIEN,Spain,80,25,Barcelona
+Ferran,Torres,ATTAQUANT,Spain,80,26,Barcelona
+Eric,García,DEFENSEUR,Spain,79,25,Barcelona
+Rayan,Cherki,MILIEU,France,79,22,Manchester City
+Igor,Thiago,ATTAQUANT,Brazil,79,22,Brentford
+Patrik,Schick,ATTAQUANT,Czechia,78,30,Bayer Leverkusen
+Marc,Guehi,DEFENSEUR,England,78,25,Crystal Palace
+Nico,Paz,MILIEU,Argentina,78,21,Como
+Ollie,Watkins,ATTAQUANT,England,78,30,Aston Villa
+Kenan,Yildiz,ATTAQUANT,Turkey,78,21,Juventus
+Hakan,Çalhanoğlu,MILIEU,Turkey,78,32,Inter Milan
+Jurriën,Timber,DEFENSEUR,Netherlands,77,24,Arsenal
+Casemiro,MILIEU,Brazil,77,34,Manchester United
+Youri,Tielemans,MILIEU,Belgium,77,29,Aston Villa
+Amad,Diallo,ATTAQUANT,Ivory Coast,77,23,Manchester United
+Reece,James,DEFENSEUR,England,77,26,Chelsea
+Alejandro,Grimaldo,DEFENSEUR,Spain,77,30,Bayer Leverkusen
+John,McGinn,MILIEU,Scotland,77,31,Aston Villa
+Iliman,Ndiaye,ATTAQUANT,Senegal,77,25,Everton
+Donyell,Malen,ATTAQUANT,Netherlands,77,27,Aston Villa
+Matheus,Nunes,MILIEU,Portugal,76,27,Manchester City
+Andrej,Kramarić,ATTAQUANT,Croatia,76,34,Hoffenheim
+Bremer,DEFENSEUR,Brazil,76,28,Juventus
+Mikel,Oyarzabal,ATTAQUANT,Spain,76,28,Real Sociedad
+Nico,Schlotterbeck,DEFENSEUR,Germany,76,26,Borussia Dortmund
+Charles,De Ketelaere,MILIEU,Belgium,76,25,Atalanta
+Jan Paul,van Hecke,DEFENSEUR,Netherlands,76,25,Brighton
+Nico,O'Reilly,MILIEU,England,76,21,Manchester City
+Manuel,Akanji,DEFENSEUR,Switzerland,76,30,Manchester City
+Eberechi,Eze,MILIEU,England,76,27,Crystal Palace
+Maxence,Lacroix,DEFENSEUR,France,76,26,Crystal Palace
+Ezri,Konsa,DEFENSEUR,England,75,28,Aston Villa
+Deniz,Undav,ATTAQUANT,Germany,75,29,Stuttgart
+Julian,Ryerson,DEFENSEUR,Norway,75,25,Borussia Dortmund
+Francisco,Conceição,ATTAQUANT,Portugal,75,22,Juventus
+Adrien,Rabiot,MILIEU,France,75,30,Marseille
+Angelo,Stiller,MILIEU,Germany,75,24,Stuttgart
+Alexis,Saelemaekers,MILIEU,Belgium,75,26,AC Milan
+David,Raum,DEFENSEUR,Germany,75,27,RB Leipzig
+Ante,Budimir,ATTAQUANT,Croatia,75,34,Osasuna
+Cucho,Hernández,ATTAQUANT,Colombia,75,26,Real Betis
+Evan,Ndicka,DEFENSEUR,France,75,26,AS Roma
+Antonio,Nusa,ATTAQUANT,Norway,75,20,RB Leipzig
+Ramy,Bensebaïni,DEFENSEUR,Algeria,74,30,Borussia Dortmund
+Luka,Vušković,DEFENSEUR,Croatia,74,19,Tottenham Hotspur
+Waldemar,Anton,DEFENSEUR,Germany,74,29,Borussia Dortmund
+Ritsu,Doan,ATTAQUANT,Japan,74,27,Freiburg
+Abde,Ezzalzouli,ATTAQUANT,Morocco,74,24,Real Betis
+Martin,Baturina,MILIEU,Croatia,74,22,Dinamo Zagreb
+Nico,Elvedi,DEFENSEUR,Switzerland,74,29,Borussia Mönchengladbach
+Ermedin,Demirović,ATTAQUANT,Bosnia,74,28,Stuttgart
+Ibrahim,Maza,MILIEU,Algeria,74,20,Bayer Leverkusen
+Christoph,Baumgartner,MILIEU,Austria,74,26,RB Leipzig
+Nadiem,Amiri,MILIEU,Germany,74,29,Mainz 05
+Min-jae,Kim,DEFENSEUR,South Korea,74,29,Bayern Munich
+Dominik,Szoboszlai,MILIEU,Hungary,78,25,Liverpool
+Troy,Parrott,ATTAQUANT,Ireland,73,24,AZ Alkmaar
+Emiliano,Buendía,MILIEU,Argentina,73,29,Aston Villa
+Pau,Torres,DEFENSEUR,Spain,73,29,Aston Villa
+Ayyoub,Bouaddi,MILIEU,France,73,18,Lille
+Adam,Wharton,MILIEU,England,73,22,Crystal Palace
+Morgan,Rogers,MILIEU,England,73,23,Aston Villa
+Mason,Greenwood,ATTAQUANT,England,73,24,Marseille
+Lisandro,Martínez,DEFENSEUR,Argentina,73,28,Manchester United
+Ivan,Toney,ATTAQUANT,England,73,30,Al-Ahli
+Ollie,Scarles,DEFENSEUR,England,72,20,West Ham United
+Tyler,Dibling,ATTAQUANT,England,72,20,Southampton
+Archie,Gray,MILIEU,England,72,20,Tottenham Hotspur
+Lucas,Chevalier,GARDIEN,France,72,24,Paris Saint-Germain
+Brice,Samba,GARDIEN,Congo,72,32,Rennes
+Yann,Sommer,GARDIEN,Switzerland,72,37,Inter Milan
+Gregor,Kobel,GARDIEN,Germany,72,28,Borussia Dortmund
+Diogo,Costa,GARDIEN,Portugal,72,27,Porto
+Anatoliy,Trubin,GARDIEN,Ukraine,72,24,Benfica
+Filip,Jörgensen,GARDIEN,Denmark,72,24,Chelsea
+Robert,Sánchez,GARDIEN,Spain,71,28,Chelsea
+Kepa,Arrizabalaga,GARDIEN,Spain,71,31,Real Madrid
+Alex,Remiro,GARDIEN,Spain,71,31,Real Sociedad
+Unai,Simón,GARDIEN,Spain,71,29,Athletic Club
+Álex,Baena,MILIEU,Spain,71,24,Villarreal
+Santi,Comesaña,MILIEU,Spain,71,22,Villarreal
+Pape,Matar,Sarr,ATTAQUANT,Senegal,71,23,Strasbourg
+Ismaïla,Sarr,ATTAQUANT,Senegal,71,28,Crystal Palace
+Nicolas,Pépé,ATTAQUANT,Ivory Coast,71,30,Villarreal
+Wilfried,Zaha,ATTAQUANT,Ivory Coast,71,33,Galatasaray
+Hirving,Lozano,ATTAQUANT,Mexico,71,30,San Diego FC
+Santiago,Giménez,ATTAQUANT,Mexico,71,25,AC Milan
+Edson,Álvarez,MILIEU,Mexico,71,28,West Ham United
+Johan,Vásquez,DEFENSEUR,Mexico,71,27,Genoa
+César,Montes,DEFENSEUR,Mexico,71,29,Almería
+Luis,Chávez,MILIEU,Mexico,71,30,Dynamo Moscow
+Orbelín,Pineda,MILIEU,Mexico,71,30,AEK Athens
+Alexis,Vega,MILIEU,Mexico,71,28,Toluca

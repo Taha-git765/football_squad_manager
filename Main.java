@@ -2,11 +2,13 @@ import java.util.Scanner;
 import  java.util.ArrayList;
 import  java.util.List;
 
+// next: s'occuper des DAO
 
 public class Main {
 
 
     private static void showAllPlayers(ArrayList<String> players){
+        System.out.println("Here are the players:");
         for(String player : players){
             System.out.println(player);
         }
@@ -16,8 +18,8 @@ public class Main {
 
         Scanner scanner = new Scanner(System.in);
         String player_name;
-        ArrayList<String> players = new ArrayList<>(List.of("Ronaldo", "Salah"));
-        ArrayList<String> myPlayers = new ArrayList<>();
+        ArrayList<String> players = new ArrayList<>(List.of("Ronaldo", "Salah", "Mane", "Firmino"));
+        ArrayList<String> myPlayers = new ArrayList<>(List.of("Mane", "Salah", "Firmino"));
         ArrayList<String> managers = new ArrayList<>();
         String myManager;
         String choice;
@@ -43,7 +45,7 @@ public class Main {
 
                 switch (choice) {
                     case "1":
-                        System.out.println("Here are the players!!");
+                        showAllPlayers(myPlayers);
                         break;
                     case "2":
                         System.out.println("signing a new player!!");
